@@ -1,6 +1,6 @@
 # Memory Module
 
-A collection of synthesizable memory designs implemented in Verilog, covering the core building blocks used in digital systems: single-port RAM, dual-port RAM, and ROM. Each module is simulated and verified using Icarus Verilog and GTKWave, with waveform-driven testbenches demonstrating correct synchronous read/write behavior.
+A collection of synthesizable memory designs implemented in Verilog, covering the core building blocks used in digital systems: single port RAM, dual port RAM, and ROM. Each module is simulated and verified using Icarus Verilog and GTKWave, with waveform driven testbenches demonstrating correct synchronous read/write behavior.
 
 ## Components
 
