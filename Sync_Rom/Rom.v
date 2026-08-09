@@ -18,7 +18,7 @@ end
 
 initial
 begin
-    mem[0] = 4'b0010;// all loactions are initialized with some data which will be read when the address is given
+    mem[0] = 4'b0010;// all locations are initialized with some data which will be read when the address is given
     mem[1] = 4'b0110;
     mem[2] = 4'b1010;
     mem[3] = 4'b0011;
